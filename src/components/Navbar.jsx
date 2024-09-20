@@ -65,7 +65,7 @@ const handleLinkClick = (e, id) => {
                             ))}
                         </ul>
                         <div className="hidden lg:flex justify-center space-x-5 items-center">
-                            <a href="#" className="py-2 px-3 font-medium cursor-pointer transition-colors duration-500 hover:font-bold">
+                            <a href="#" className="py-2 px-3 font-medium cursor-pointer border rounded-md border-emerald-950 transition-colors duration-500 hover:font-bold">
                                 Book a Call
                             </a>
                             <a href="#" className="py-2 px-3 border bg-emerald-950 text-white rounded-md font-medium cursor-pointer transition-all duration-500 hover:bg-emerald-900">
