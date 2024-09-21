@@ -154,7 +154,7 @@ export const PACKAGES = [
       "This package offers essential advertising solutions for startups and small businesses.",
     services: [
       "Brand strategy development",
-      "Basic market analysis",
+      "Basic market research and analysis",
       "Creative campaign design",
       "Social media planning",
       "Monthly campaign reviews",
