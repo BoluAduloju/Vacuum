@@ -1,5 +1,6 @@
  import Navbar from "./components/Navbar"
  import Hero from "./components/Hero"
+import About from "./components/About"
 
 
 const App = () => {
@@ -7,6 +8,7 @@ const App = () => {
     <div className=" overflow-x-hidden bg-orange-50 text-emerald-950 antialiased">
       < Navbar />
       < Hero />
+      <About />
     
     </div>
     

@@ -7,6 +7,9 @@ import project3 from "../assets/project3.jpeg";
 import profile1 from "../assets/profile1.jpeg";
 import profile2 from "../assets/profile2.jpeg";
 import profile3 from "../assets/profile3.jpg";
+import about1 from "../assets/service1.jpg";
+import about2 from "../assets/service2.jpg";
+import about3 from "../assets/service3.jpg";
 import profile4 from "../assets/profile4.jpg";
 import profile5 from "../assets/profile5.jpg";
 import profile6 from "../assets/profile6.jpeg";
@@ -29,23 +32,23 @@ export const LINKS = [
 export const ABOUT = {
   profileImages: [
     {
-      src: profile6,
+      src: about1,
       alt: "Creative Team",
       delay: 0.1,
     },
     {
-      src: profile3,
+      src: about2,
       alt: "Marketing Strategy",
       delay: 0.2,
     },
     {
-      src: profile4,
+      src: about3,
       alt: "Digital Campaign",
       delay: 0.3,
     },
   ],
   aboutUsText:
-    "At adCarrot, we are a dynamic team of creative professionals, marketing experts, and digital strategists committed to elevating your brand. We specialize in crafting innovative ad campaigns that drive engagement and deliver results.",
+    "At Vacuum, we are a dynamic team of creative professionals, marketing experts, and digital strategists committed to elevating your brand and generating sales. We specialize in crafting innovative ad campaigns that drive engagement and deliver results.",
 };
 
 export const SERVICES = [

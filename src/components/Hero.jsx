@@ -1,4 +1,4 @@
-import profileImg1 from '../assets/profile1.jpeg'
+import profileImg1 from '../assets/profile5.jpg'
 import profileImg2 from '../assets/profile2.jpeg'
 import profileImg3 from '../assets/profile3.jpg'
 import heroImg from '../assets/Hero-img.jpg'
@@ -20,7 +20,7 @@ const Hero = () => {
        </h1>
         
       
-       <div className="hidden lg:flex justify-start space-x-5 items-center mt-8">
+       <div className=" flex justify-start space-x-5 items-center mt-8">
                            
           <a href="#" className="py-3 px-4 border flex items-center gap-2 bg-emerald-950 text-white rounded-md font-medium cursor-pointer transition-all duration-500 hover:bg-emerald-900">
             Learn More
