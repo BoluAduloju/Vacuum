@@ -1,5 +1,5 @@
 import profileImg1 from '../assets/profile5.jpg'
-import profileImg2 from '../assets/profile2.jpeg'
+import profileImg2 from '../assets/profile4.jpg'
 import profileImg3 from '../assets/profile3.jpg'
 import heroImg from '../assets/Hero-img.jpg'
 import { IoArrowForward } from 'react-icons/io5'

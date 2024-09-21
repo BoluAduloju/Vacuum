@@ -1,9 +1,9 @@
 import service1 from "../assets/test-4.webp";
 import service2 from "../assets/marketing-campaign.jpg";
 import service3 from "../assets/service2.webp";
-import project1 from "../assets/project1.jpeg";
-import project2 from "../assets/project2.jpeg";
-import project3 from "../assets/project3.jpeg";
+import project1 from "../assets/sollo.webp";
+import project2 from "../assets/hairbyarper.jpg";
+import project3 from "../assets/Jubilant.png";
 import profile1 from "../assets/profile1.jpeg";
 import profile2 from "../assets/profile2.jpeg";
 import profile3 from "../assets/profile3.jpg";
@@ -48,7 +48,7 @@ export const ABOUT = {
     },
   ],
   aboutUsText:
-    "At Vacuum, we are a dynamic team of creative professionals, marketing experts, and digital strategists committed to elevating your brand and generating sales. We specialize in crafting innovative ad campaigns that drive engagement and deliver results.",
+    "At Vacuum, we are a dynamic team of creative professionals, marketing experts, and digital strategists committed to elevating your brand and generating sales. We specialize in crafting innovative ad campaigns that drive engagement and deliver results for Digital creators, SMEs and StartUps.",
 };
 
 export const SERVICES = [
@@ -81,39 +81,39 @@ export const SERVICES = [
 export const PROJECTS = [
   {
     year: "2023",
-    title: "Olliviere",
-    description: "How we furthered AI in tech.",
+    title: "Sollo",
+    description: "How we furthered Their Crypto Wallet Adoption.",
     details:
-      "Olliviere approached us with a vision to integrate AI into their existing tech infrastructure. Our team worked closely with their engineers to develop and deploy advanced AI models that have significantly enhanced their operational efficiency and product offerings.",
+      "Sollo approached us with a vision to make Crypto transaction seamless with their infrastructure. Our team worked closely with their marketers to develop and deploy a campaign strategy that have significantly enhanced their market share and product offerings.",
     imageUrl: project1,
     figures: {
-      investment: "$2M",
+      investment: "$200k",
       duration: "12 months",
       outcome: "200% ROI",
     },
   },
   {
     year: "2023",
-    title: "Jubilant",
+    title: "HairbyArper",
     description: "How we doubled market growth.",
     details:
-      "Jubilant was looking to expand their market presence. We conducted comprehensive market research and developed a targeted marketing strategy that led to a substantial increase in their market share, ultimately doubling their growth within a year.",
+      "HairbyArper was looking to expand their online presence. We conducted comprehensive market research and developed a targeted marketing strategy that led to a substantial increase in their followers, ultimately doubling their growth within a year.",
     imageUrl: project2,
     figures: {
-      investment: "$1.5M",
+      investment: "$120k",
       duration: "9 months",
       outcome: "150% market growth",
     },
   },
   {
     year: "2023",
-    title: "Arper",
-    description: "How we generated interest in type.",
+    title: "Jubilant",
+    description: "How we built their Customers trust.",
     details:
-      "Arper wanted to create a buzz around their new product line. We designed a creative campaign that highlighted the unique features of their products, resulting in a significant boost in brand awareness and customer engagement.",
+      "Jubilant wanted to build credibility for their new startup that makes investing profitable. We designed a creative campaign that highlighted the unique features of their products, resulting in a significant boost in brand awareness and customer engagement.",
     imageUrl: project3,
     figures: {
-      investment: "$800K",
+      investment: "$90K",
       duration: "6 months",
       outcome: "300% increase in engagement",
     },
