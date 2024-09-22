@@ -5,6 +5,7 @@
  import Projects from "./components/Projects"
  import Pricing from "./components/Pricing"
  import Team from "./components/Team"
+ import Testimonial from "./components/Testimonial"
 
 
 
@@ -18,6 +19,7 @@ const App = () => {
       <Projects />
       <Pricing />
       <Team />
+      <Testimonial />
     </div>
     
     

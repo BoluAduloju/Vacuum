@@ -197,8 +197,8 @@ export const TEAM_MEMBERS = [
 
 export const TESTIMONIALS = [
   {
-    text: "Working with adCarrot has transformed our marketing strategy. Their creative solutions and dedication are unmatched.",
-    author: "Sarah Johnson",
+    text: "Working with Vacuum has transformed our marketing strategy. Their creative solutions and dedication are unmatched.",
+    author: "Aminat Musa",
     title: "CEO, BrightFuture",
     bgColor: "bg-purple-100",
     textColor: "text-purple-800",
@@ -213,8 +213,8 @@ export const TESTIMONIALS = [
     image: testimonial2,
   },
   {
-    text: "adCarrot's approach to marketing is both strategic and creative. They understand our needs and deliver outstanding results.",
-    author: "Emily Davis",
+    text: "Vacuum's approach to marketing is both strategic and creative. They understand our needs and deliver outstanding results, truly filling vacuum.",
+    author: "Adedokun Lade",
     title: "Marketing Director, FinancePro",
     bgColor: "bg-blue-100",
     textColor: "text-blue-800",
@@ -222,7 +222,7 @@ export const TESTIMONIALS = [
   },
   {
     text: "The quality of work and the level of expertise at adCarrot is exceptional. We highly recommend their services. Overall happy!",
-    author: "John Smith",
+    author: "Vinicius Alex",
     title: "COO, StartSmart",
     bgColor: "bg-yellow-100",
     textColor: "text-yellow-800",

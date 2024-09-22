@@ -82,7 +82,7 @@ const handleLinkClick = (e, id) => {
             <FaTimes className="h-8 w-8" />
         </button>
 
-        {LINKS.map((link, id) => (
+        {LINKS.map((link) => (
             <a key={link.id} href={` #${link.id} `} onClick={() => handleLinkClick(e, link.id)} className="transition-colors duration-500 hover:text-orange-500">
                 {link.name}
             </a>
