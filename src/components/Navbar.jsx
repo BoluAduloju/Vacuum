@@ -47,7 +47,7 @@ const handleLinkClick = (e, id) => {
 
   return (
     <>
-    <nav className="fixed z-10 w-full border-b border-emerald-950 bg-stone-50 ">
+    <nav className="fixed z-10 w-full border-b border-emerald-950 bg-orange-50 ">
       <div className="container mx-auto px-4"> 
         <div className=" flex h-16 items-center justify-between  ">
             <div className="flex items-center">
