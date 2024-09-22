@@ -232,35 +232,41 @@ export const TESTIMONIALS = [
 
 export const FAQS = [
   {
-    question: "What services does adCarrot offer?",
+    question: "What services does Vacuum offer?",
     answer:
-      "adCarrot offers a wide range of services including personalized marketing plans, flexible campaign scheduling, online consulting sessions, and more. Our services are designed to elevate your brand and drive engagement.",
+      "Vacuum offers a wide range of services including personalized marketing plans, flexible campaign scheduling, online consulting sessions, and more. Our services are designed to elevate your brand and drive engagement.",
   },
   {
-    question: "How can adCarrot help my business grow?",
+    question: "How can Vacuum help my business grow?",
     answer:
       "adCarrot specializes in creating data-driven marketing strategies that are tailored to your unique business needs. Our team of experts works closely with you to optimize your campaigns and achieve your business goals.",
   },
   {
-    question: "Can adCarrot handle social media management?",
+    question: "Can Vacuum handle social media management?",
     answer:
-      "Yes, adCarrot offers comprehensive social media management services. We create engaging content, manage your social media accounts, and run targeted ad campaigns to increase your online presence.",
+      "Yes, Vacuum offers comprehensive social media management services. We create engaging content, manage your social media accounts, and run targeted ad campaigns to increase your online presence.",
   },
   {
-    question: "How does adCarrot measure campaign success?",
+    question: "How does Vacuum measure campaign success?",
     answer:
       "We use advanced analytics and tracking tools to measure the success of your campaigns. Our team provides detailed reports and insights to help you understand the performance and ROI of your marketing efforts.",
   },
   {
-    question: "What is the process for getting started with adCarrot?",
+    question: "What is the process for getting started with Vacuum?",
     answer:
-      "Getting started with adCarrot is easy. Simply contact us to schedule a consultation. We'll discuss your business needs, develop a customized marketing plan, and get your campaigns up and running in no time.",
+      "Getting started with Vacuum is easy. Simply contact us to schedule a meeting. We'll discuss your business needs, develop a customized marketing plan, and get your campaigns up and running in no time.",
   },
   {
     question:
       "Is there customer support available for troubleshooting or customization assistance?",
     answer:
-      "Yes, adCarrot offers dedicated customer support to assist you with any questions or issues. Our support team is available to help you with troubleshooting and provide guidance on customizing your marketing strategies.",
+      "Yes, Vacuum offers dedicated customer support to assist you with any questions or issues. Our support team is available to help you with troubleshooting and provide guidance on customizing your marketing strategies.",
+  },
+  {
+    question:
+      "Is there money back guarantee?",
+    answer:
+      "Yes, Vacuum offers outstanding result which many of our Clients speaks and refer others to us,but in a situation where there is issues in our delivery. We offer a reasonable percentage back.",
   },
 ];
 

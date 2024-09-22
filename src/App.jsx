@@ -6,6 +6,7 @@
  import Pricing from "./components/Pricing"
  import Team from "./components/Team"
  import Testimonial from "./components/Testimonial"
+ import Faq from "./components/Faq"
 
 
 
@@ -20,6 +21,7 @@ const App = () => {
       <Pricing />
       <Team />
       <Testimonial />
+      <Faq />
     </div>
     
     

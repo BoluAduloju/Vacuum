@@ -2,7 +2,7 @@ import { TEAM_MEMBERS } from "../constants"
 
 const Team = () => {
   return (
-   <section className="container mx-auto px-8 py-20 bg-stone-50" id="team">
+   <section className=" mx-auto px-8 py-20 bg-stone-50" id="team">
     <h2 className="my-8 text-center text-4xl font-semibold tracking-tighter">Team</h2>
     <div className="flex flex-wrap ">
         {TEAM_MEMBERS.map((member, index) => (
