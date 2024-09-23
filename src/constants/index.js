@@ -71,7 +71,7 @@ export const SERVICES = [
   {
     id: 3,
     title: "Customer Support",
-    content: "Provide quick and apt responses and assitance to customers needs .",
+    content: "Provide quick and apt responses and assitance to customers needs.",
     description:
       "Ultimately, this service empowers us to deliver data-driven marketing strategies that are laser-focused on achieving our clients' specific goals.",
     imgSrc: service3,
@@ -122,16 +122,16 @@ export const PROJECTS = [
 
 export const PACKAGES = [
   {
-    name: "Premium",
-    price: "$25K",
+    name: "Basic",
+    price: "$10K",
     description:
-      "This premium package offers comprehensive advertising solutions for large-scale campaigns.",
+      "This package offers essential advertising solutions for startups and small businesses.",
     services: [
       "Brand strategy development",
-      "Comprehensive market analysis",
+      "Basic market research and analysis",
       "Creative campaign design",
-      "Multi-channel media planning",
-      "24/7 campaign management",
+      "Social media planning",
+      "Monthly campaign reviews",
     ],
   },
   {
@@ -148,18 +148,19 @@ export const PACKAGES = [
     ],
   },
   {
-    name: "Basic",
-    price: "$10K",
+    name: "Premium",
+    price: "$25K",
     description:
-      "This package offers essential advertising solutions for startups and small businesses.",
+      "This premium package offers comprehensive advertising solutions for large-scale campaigns.",
     services: [
       "Brand strategy development",
-      "Basic market research and analysis",
+      "Comprehensive market analysis",
       "Creative campaign design",
-      "Social media planning",
-      "Monthly campaign reviews",
+      "Multi-channel media planning",
+      "24/7 campaign management",
     ],
   },
+  
 ];
 
 export const TEAM_MEMBERS = [
@@ -205,7 +206,7 @@ export const TESTIMONIALS = [
     image: testimonial1,
   },
   {
-    text: "The team at adCarrot is professional, innovative, and incredibly skilled. They have significantly improved our brand's online presence.",
+    text: "The team at Vaccum are professional, innovative, and incredibly skilled. They have significantly improved our brand's online presence.",
     author: "David Williams",
     title: "CTO, TechSavvy",
     bgColor: "bg-green-100",
@@ -221,7 +222,7 @@ export const TESTIMONIALS = [
     image: testimonial3,
   },
   {
-    text: "The quality of work and the level of expertise at adCarrot is exceptional. We highly recommend their services. Overall happy!",
+    text: "The quality of work and the level of expertise at Vacuum is exceptional. We highly recommend their services. Overall happy!",
     author: "Vinicius Alex",
     title: "COO, StartSmart",
     bgColor: "bg-yellow-100",

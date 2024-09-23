@@ -11,7 +11,7 @@ const Team = () => {
                 <h3 className="font-semibold tracking-tighter lg:text-xl">
                     {member.name}
                 </h3>
-                <p className="italic lg:text-lg">{member.title}</p>
+                <p className="italic lg:text-lg text-orange-500">{member.title}</p>
             </div>
             
             

@@ -11,7 +11,7 @@ const Faq = () => {
       setActiveIndex(activeIndex === index ? null : index);
    }
   return (
-    <section className="mt-20" id="faq">
+    <section className="mt-20" id="faq ">
         <div className="container mx-auto flex flex-col gap-12 p-8 lg:flex-row">
             <div className="lg:w-1/3">
                <h2 className="mb-8 text-4xl font-semibold tracking-tigher ">

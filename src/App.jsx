@@ -7,12 +7,12 @@
  import Team from "./components/Team"
  import Testimonial from "./components/Testimonial"
  import Faq from "./components/Faq"
-
+ import Contact from "./components/Contact"
 
 
 const App = () => {
   return (
-    <div className=" overflow-x-hidden bg-orange-50 text-emerald-950 antialiased">
+    <div className=" overflow-x-hidden bg-stone-50 text-emerald-950 antialiased">
       < Navbar />
       < Hero />
       <About />
@@ -22,6 +22,8 @@ const App = () => {
       <Team />
       <Testimonial />
       <Faq />
+      <Contact />
+  
     </div>
     
     

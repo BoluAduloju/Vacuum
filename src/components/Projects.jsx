@@ -20,15 +20,15 @@ const Projects = () => {
                   <p className="mb-4 text-lg text-emerald-950 lg:text-2xl">{project.details}</p>
                   <table className="min-w-full text-lg lg:text-xl">
                         <tr>
-                            <td className="px-6 py-4 font-normal text-orange-500">Revenue Generated</td>
+                            <td className="px-6 py-4 font-normal text-emerald-950">Revenue Generated</td>
                             <td className="px-6 py-4 font-bold text-orange-500">{project.figures.investment}</td>
                         </tr>
                         <tr>
-                            <td className="px-6 py-4 font-normal text-orange-500">Duration</td>
+                            <td className="px-6 py-4 font-normal text-emerald-950">Duration</td>
                             <td className="px-6 py-4 font-bold text-orange-500">{project.figures.duration}</td>
                         </tr>
                         <tr>
-                          <td className="px-6 py-4 font-normal text-orange-500">Outcome</td>
+                          <td className="px-6 py-4 font-normal text-emerald-950">Outcome</td>
                           <td className="px-6 py-4 font-bold text-orange-500">{project.figures.outcome}</td>
                         </tr>
                   </table>
