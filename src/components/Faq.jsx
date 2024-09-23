@@ -23,7 +23,7 @@ const Faq = () => {
                {FAQS.map((faq, index) => (
                 <div key={index} className="mb-4 border-b pb-4 ">
                     <div className="flex cursor-pointer items-center justify-between p-8" onClick={() => handleToggle(index)}>
-                        <h3 className="text-2xl">{faq.question}</h3>
+                        <h3 className="text-2xl text-orange-500">{faq.question}</h3>
                         <div>
                             {activeIndex === index ? (
                                < FaMinus className="text-xl" />

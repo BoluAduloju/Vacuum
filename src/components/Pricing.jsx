@@ -25,7 +25,7 @@ const Pricing = () => {
                       ))}
                     </ul>
                     <div>
-                      <button className="py-3 px-4 border flex items-center gap-2 bg-emerald-950 text-white rounded-md font-medium cursor-pointer transition-all duration-500 hover:bg-emerald-900">
+                      <button className="py-3 px-4 border flex items-center gap-2 bg-emerald-950 text-orange-50 rounded-md font-medium cursor-pointer transition-all duration-500 hover:bg-emerald-900">
                         <span>Get Started</span>
                         <IoArrowForward />
                       </button>

@@ -5,7 +5,7 @@ import heroImg from '../assets/Hero-img.jpg'
 import { IoArrowForward } from 'react-icons/io5'
 const Hero = () => {
   return (
-  <section className=" min-h-screen mt-20 flex flex-wrap items-center bg-orange-50 text-emerald-950">
+  <section className=" min-h-screen pt-20 flex flex-wrap items-center bg-orange-50 text-emerald-950">
     <div className="w-full p-8 md:w-1/2">
        <div className="mb-4 flex space-x-2 justify-start">
             <img src={profileImg1} alt="customer image 1" className=" h-10 w-10 mr-0 rounded-full border-2 border-emerald-950" />
@@ -22,7 +22,7 @@ const Hero = () => {
       
        <div className=" flex justify-start space-x-5 items-center mt-8">
                            
-          <a href="#" className="py-3 px-4 border flex items-center gap-2 bg-emerald-950 text-white rounded-md font-medium cursor-pointer transition-all duration-500 hover:bg-emerald-900">
+          <a href="#" className="py-3 px-4 border flex items-center gap-2 bg-emerald-950 text-orange-50 rounded-md font-medium cursor-pointer transition-all duration-500 hover:bg-emerald-900">
             Learn More
             <IoArrowForward />
           </a>

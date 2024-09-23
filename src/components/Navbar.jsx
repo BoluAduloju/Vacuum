@@ -68,7 +68,7 @@ const handleLinkClick = (e, id) => {
                             <a href="#" className="py-2 px-3 font-medium cursor-pointer border rounded-md border-emerald-950 transition-colors duration-500 hover:font-bold">
                                 Book a Call
                             </a>
-                            <a href="#" className="py-2 px-3 border bg-emerald-950 text-white rounded-md font-medium cursor-pointer transition-all duration-500 hover:bg-emerald-900">
+                            <a href="#" className="py-2 px-3 border bg-emerald-950 text-orange-50 rounded-md font-medium cursor-pointer transition-all duration-500 hover:bg-emerald-900">
                                 Learn More
                             </a>
                         </div>
